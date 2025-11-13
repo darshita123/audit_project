@@ -1,0 +1,122 @@
+[
+  {
+    "DATE":"2025-01-02",
+    "DESCRIPTION":"Cash Deposit",
+    "DEBIT":null,
+    "CREDIT":3000.0,
+    "BALANCE":3000,
+    "CATEGORY":"Cash Withdrawal"
+  },
+  {
+    "DATE":"2025-01-05",
+    "DESCRIPTION":"ATM Withdrawal",
+    "DEBIT":1000.0,
+    "CREDIT":null,
+    "BALANCE":2000,
+    "CATEGORY":"Cash Withdrawal"
+  },
+  {
+    "DATE":"2025-01-07",
+    "DESCRIPTION":"Electricity Bill Payment",
+    "DEBIT":750.0,
+    "CREDIT":null,
+    "BALANCE":1250,
+    "CATEGORY":"Other"
+  },
+  {
+    "DATE":"2025-01-10",
+    "DESCRIPTION":"Salary Credit",
+    "DEBIT":null,
+    "CREDIT":5000.0,
+    "BALANCE":6250,
+    "CATEGORY":"Other"
+  },
+  {
+    "DATE":"2025-01-12",
+    "DESCRIPTION":"Freelance Project Payment",
+    "DEBIT":null,
+    "CREDIT":1200.0,
+    "BALANCE":7450,
+    "CATEGORY":"Other"
+  },
+  {
+    "DATE":"2025-01-14",
+    "DESCRIPTION":"Online Shopping - Flipkart",
+    "DEBIT":850.0,
+    "CREDIT":null,
+    "BALANCE":6600,
+    "CATEGORY":"Shopping"
+  },
+  {
+    "DATE":"2025-01-16",
+    "DESCRIPTION":"Interest Credit",
+    "DEBIT":null,
+    "CREDIT":60.0,
+    "BALANCE":6660,
+    "CATEGORY":"Interest"
+  },
+  {
+    "DATE":"2025-01-18",
+    "DESCRIPTION":"UPI Transfer to Friend",
+    "DEBIT":500.0,
+    "CREDIT":null,
+    "BALANCE":6160,
+    "CATEGORY":"Transfer"
+  },
+  {
+    "DATE":"2025-01-20",
+    "DESCRIPTION":"UPI Received from Friend",
+    "DEBIT":null,
+    "CREDIT":400.0,
+    "BALANCE":6560,
+    "CATEGORY":"Transfer"
+  },
+  {
+    "DATE":"2025-01-22",
+    "DESCRIPTION":"Insurance Premium Payment",
+    "DEBIT":1200.0,
+    "CREDIT":null,
+    "BALANCE":5360,
+    "CATEGORY":"Other"
+  },
+  {
+    "DATE":"2025-01-24",
+    "DESCRIPTION":"Dividend Payout",
+    "DEBIT":null,
+    "CREDIT":250.0,
+    "BALANCE":5610,
+    "CATEGORY":"Other"
+  },
+  {
+    "DATE":"2025-01-26",
+    "DESCRIPTION":"Amazon Purchase",
+    "DEBIT":600.0,
+    "CREDIT":null,
+    "BALANCE":5010,
+    "CATEGORY":"Other"
+  },
+  {
+    "DATE":"2025-01-27",
+    "DESCRIPTION":"Bank Fee - SMS Alert",
+    "DEBIT":25.0,
+    "CREDIT":null,
+    "BALANCE":4985,
+    "CATEGORY":"Other"
+  },
+  {
+    "DATE":"2025-01-29",
+    "DESCRIPTION":"Interest Credit",
+    "DEBIT":null,
+    "CREDIT":45.0,
+    "BALANCE":5030,
+    "CATEGORY":"Interest"
+  },
+  {
+    "DATE":"2025-01-31",
+    "DESCRIPTION":"Cashback from Amazon",
+    "DEBIT":null,
+    "CREDIT":80.0,
+    "BALANCE":5110,
+    "CATEGORY":"Cash Withdrawal"
+  }
+]

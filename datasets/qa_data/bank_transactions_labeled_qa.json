@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is the category of 'ATM Withdrawal'?",
+    "answer": "Cash Withdrawal"
+  },
+  {
+    "question": "What is the category of 'Salary Credit'?",
+    "answer": "Income"
+  },
+  {
+    "question": "What is the category of 'Amazon Purchase'?",
+    "answer": "Shopping"
+  },
+  {
+    "question": "What is the category of 'Interest Credit'?",
+    "answer": "Interest"
+  }
+]

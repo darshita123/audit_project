@@ -1,0 +1,16 @@
+DATE,DESCRIPTION,DEBIT,CREDIT,BALANCE
+2025-01-02,Cash Deposit,,3000,3000
+2025-01-05,ATM Withdrawal,1000,,2000
+2025-01-07,Electricity Bill Payment,750,,1250
+2025-01-10,Salary Credit,,5000,6250
+2025-01-12,Freelance Project Payment,,1200,7450
+2025-01-14,Online Shopping - Flipkart,850,,6600
+2025-01-16,Interest Credit,,60,6660
+2025-01-18,UPI Transfer to Friend,500,,6160
+2025-01-20,UPI Received from Friend,,400,6560
+2025-01-22,Insurance Premium Payment,1200,,5360
+2025-01-24,Dividend Payout,,250,5610
+2025-01-26,Amazon Purchase,600,,5010
+2025-01-27,Bank Fee - SMS Alert,25,,4985
+2025-01-29,Interest Credit,,45,5030
+2025-01-31,Cashback from Amazon,,80,5110
