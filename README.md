@@ -108,7 +108,7 @@ from pymongo import MongoClient
 
 def get_database():
     client = MongoClient("mongodb://localhost:27017/")  # Docker or local MongoDB
-    return client["rag_harshwal_project_db"]
+    return client["your_database_name"]
 
 
 ---
