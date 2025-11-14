@@ -1,6 +1,4 @@
 ---
-
-`markdown
 # Audit Intelligence System
 
 This project is a **Review Logging and labeling Statements** built with Python, CrewAI, MongoDB, and Streamlit.  
